@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\CodingPractise\\CsharpPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F213D7D4-AA4D-1779-362A-E15F66AD46F7}|1\u201325 Basic Programming.csproj|c:\\project\\codingpractise\\csharpprograms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F213D7D4-AA4D-1779-362A-E15F66AD46F7}|1\u201325 Basic Programming.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368E78E-5174-4556-BD49-E0A721D47F2D}|..\\Ineedtorenamethisone\\Ineedtorenamethisone.csproj|c:\\project\\codingpractise\\ineedtorenamethisone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\CodingPractise\\Ineedtorenamethisone\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ineedtorenamethisone\\Program.cs",
+              "ToolTip": "C:\\project\\CodingPractise\\Ineedtorenamethisone\\Program.cs",
+              "RelativeToolTip": "..\\Ineedtorenamethisone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T06:21:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\CodingPractise\\CsharpPrograms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\project\\CodingPractise\\CsharpPrograms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:55:26.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
