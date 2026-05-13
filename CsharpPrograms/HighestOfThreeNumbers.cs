@@ -5,10 +5,6 @@ namespace CodingPractise.CsharpCoding
 {
 	public class FindGreatestNumber
 	{
-		public static void Main(string[] args)
-		{
-			Run();
-		}
 		public static void Run()
 		{
 			int[] numbers = new int[3];
