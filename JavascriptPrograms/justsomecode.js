@@ -1,4 +1,6 @@
 console.log("hi");
+
+/*
 function myFun(a, b, ...manyMoreArgs)
 {
     console.log("a", a);
@@ -161,6 +163,8 @@ myFun("one", "two", "three", "four", "five", "six");
 */
 
 
+/*
+
 const gameevents = new Map([
     [17,'GOAL'],
     [36,'SUBSTITUTION'],
@@ -194,4 +198,4 @@ for(const [val,action] of gameevents){            //square brackets
         console.log(val);
     }
 }
-
+*/
