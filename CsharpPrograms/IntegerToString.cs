@@ -4,7 +4,7 @@ namespace CodingPractise.CsharpCoding
 {
     public class IntegerToString
     {
-        public static void Run()
+        public static void integerToString()
         {
             int number = 12345;
             string result = intToString(number);
