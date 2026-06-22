@@ -7,11 +7,11 @@ namespace CodingPractise.CsharpCoding
         public static void Run()
         {
             int number = 12345;
-            string result = IntToString(number);
-            Console.WriteLine(result); // Output: "12345"
+            string result = intToString(number);
+            Console.WriteLine($"\"{result}\""); // Output: "12345"
         }
 
-        public static string IntToString(int num)
+        public static string intToString(int num)
         {
             if (num == 0)
             {
@@ -19,7 +19,7 @@ namespace CodingPractise.CsharpCoding
             }
             if (num < 0)
             {
-                return "-" + IntToString(-num);
+                return "-" + intToString(-num);
             }
 
             string result = "";
