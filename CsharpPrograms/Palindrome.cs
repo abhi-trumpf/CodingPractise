@@ -4,7 +4,7 @@ namespace CodingPractise.CsharpCoding
 {
     public class Palindrome
     {
-        public static void Run()
+        public static void palindrome()
         {
             string s1 = "lol";
             string original = s1;
